@@ -6,5 +6,5 @@
 // ; (semicolon) It is optional in most cases because JavaScript automatically inserts them where needed. But using it is a good habit for clean, predictable code.
 
 console.log("Hello, World! (Double Quotes)");
-console.log('Hello, World! (Single Quotes)');
-console.log(`Hello, World! (Backticks)`);
+console.warn('Hello, World! (Single Quotes)');
+console.error(`Hello, World! (Backticks)`);
