@@ -2,7 +2,7 @@
 
 This repository contains a collection of JavaScript programs and code snippets created for practice and learning purposes. Each file focuses on a specific concept or feature of JavaScript, making it easier to strengthen core programming skills.
 
-## 📚 Purpose
+##  Purpose
 
 - Improve understanding of JavaScript syntax and logic
 - Practice solving basic to intermediate coding problems
@@ -11,7 +11,7 @@ This repository contains a collection of JavaScript programs and code snippets c
 
 > Note: File names may vary depending on the topic.
 
-## 🚀 How to Use
+##  How to Use
 
 You can run any `.js` file using a browser's developer console or directly in Node.js:
 
